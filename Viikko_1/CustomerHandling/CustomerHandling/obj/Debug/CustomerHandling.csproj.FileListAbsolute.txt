@@ -1,0 +1,10 @@
+C:\Users\suomi\OneDrive - lucit\Tiedostot\Ohjelmointi\GitHub\In_Progress\Object_Oriented_Programming_2_Csharp\Viikko_1\CustomerHandling\CustomerHandling\bin\Debug\CustomerHandling.exe.config
+C:\Users\suomi\OneDrive - lucit\Tiedostot\Ohjelmointi\GitHub\In_Progress\Object_Oriented_Programming_2_Csharp\Viikko_1\CustomerHandling\CustomerHandling\bin\Debug\CustomerHandling.exe
+C:\Users\suomi\OneDrive - lucit\Tiedostot\Ohjelmointi\GitHub\In_Progress\Object_Oriented_Programming_2_Csharp\Viikko_1\CustomerHandling\CustomerHandling\bin\Debug\CustomerHandling.pdb
+C:\Users\suomi\OneDrive - lucit\Tiedostot\Ohjelmointi\GitHub\In_Progress\Object_Oriented_Programming_2_Csharp\Viikko_1\CustomerHandling\CustomerHandling\obj\Debug\CustomerHandling.csproj.AssemblyReference.cache
+C:\Users\suomi\OneDrive - lucit\Tiedostot\Ohjelmointi\GitHub\In_Progress\Object_Oriented_Programming_2_Csharp\Viikko_1\CustomerHandling\CustomerHandling\obj\Debug\CustomerHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\suomi\OneDrive - lucit\Tiedostot\Ohjelmointi\GitHub\In_Progress\Object_Oriented_Programming_2_Csharp\Viikko_1\CustomerHandling\CustomerHandling\obj\Debug\CustomerHandling.Properties.Resources.resources
+C:\Users\suomi\OneDrive - lucit\Tiedostot\Ohjelmointi\GitHub\In_Progress\Object_Oriented_Programming_2_Csharp\Viikko_1\CustomerHandling\CustomerHandling\obj\Debug\CustomerHandling.csproj.GenerateResource.cache
+C:\Users\suomi\OneDrive - lucit\Tiedostot\Ohjelmointi\GitHub\In_Progress\Object_Oriented_Programming_2_Csharp\Viikko_1\CustomerHandling\CustomerHandling\obj\Debug\CustomerHandling.csproj.CoreCompileInputs.cache
+C:\Users\suomi\OneDrive - lucit\Tiedostot\Ohjelmointi\GitHub\In_Progress\Object_Oriented_Programming_2_Csharp\Viikko_1\CustomerHandling\CustomerHandling\obj\Debug\CustomerHandling.exe
+C:\Users\suomi\OneDrive - lucit\Tiedostot\Ohjelmointi\GitHub\In_Progress\Object_Oriented_Programming_2_Csharp\Viikko_1\CustomerHandling\CustomerHandling\obj\Debug\CustomerHandling.pdb

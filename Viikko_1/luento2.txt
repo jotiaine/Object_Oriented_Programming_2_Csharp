@@ -1,0 +1,8 @@
+Lecture 2 - CustomerHandling
+
+Add SQLIte:
+	References
+	Manage nuget packages
+	System.Data.SQLite
+	ok
+	accept
